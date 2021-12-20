@@ -80,7 +80,7 @@ for i in range(29):
         bs.find(id="d4").string=str(data.loc['感光元件大小'][0])
     if('感光元件種類' in data.index):
         bs.find(id="d5").string=str(data.loc['感光元件種類'][0])
-    if('感光元件種類' in data.index):
+    if('鏡頭接環' in data.index):
         bs.find(id="d6").string=str(data.loc['鏡頭接環'][0])
     if('自動對焦情況' in data.index):
         bs.find(id="d7").string=str(data.loc['自動對焦情況'][0])
