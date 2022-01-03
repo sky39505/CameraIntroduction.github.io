@@ -2869,7 +2869,7 @@ hr {
 }
 
 .font-x1 {
-    font-size:1.2rem
+    font-size:1.5rem
 }
 
 .font-x2 {
@@ -3945,3 +3945,12 @@ table a, #comments a {
     }
 }
 
+.pic{
+    width:  140px;
+}
+.pic1{
+    width: 185px;
+}
+.pic2{
+    width: 138.5px;
+}

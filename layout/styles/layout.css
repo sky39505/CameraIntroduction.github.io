@@ -226,7 +226,7 @@ a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey ba
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 input:focus, textarea:focus, *:required:focus{border-color:#C5A059;}
-.overlay{color:#FFFFFF; background-color:inherit;}
+.overlay{color:#FFFFFF; background-color:inherit;background-size: cover;background-attachment: fixed;background-position: center;}
 .overlay::after{color:inherit; background-color:rgba(0,0,0,.55);}
 
 .btn, .btn.inverse:hover{color:#FFFFFF; background-color:#C5A059; border-color:#C5A059;}
